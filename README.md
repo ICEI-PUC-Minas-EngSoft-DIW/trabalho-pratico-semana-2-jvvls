@@ -7,4 +7,4 @@
 ## Print da tela da página criada (Curriculum Vitae)
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
-![CV](print.png)
+![inspeção](imgs/insp.png)
