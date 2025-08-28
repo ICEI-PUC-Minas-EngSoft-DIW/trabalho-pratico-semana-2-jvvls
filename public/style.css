@@ -1,6 +1,5 @@
 .content-wrapper {
     display: flex;
-    flex: 1; 
 }
 
 header.header-title {
@@ -28,4 +27,29 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: lightcyan;
+}
+
+nav{
+    background-color: lightcyan;
+    text-align: center;
+    height: 40px;
+    font-size: 25px;
+}
+
+.project-title {
+    font-size: 2em; 
+    font-weight: bold;
+    margin-top: 20px;
+    color: #2c3e50; 
+}
+
+.project-desc {
+    font-size: 1.2em; 
+    line-height: 1.6; 
+    margin-bottom: 15px;
+    color: #34495e; 
+}
+ 
+intro {
+    font-size: 50px;
 }
